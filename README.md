@@ -1,3 +1,2 @@
 # WJ-HTLC
-A cross-chain swap contract.
-The contract is divided into two sides, the initiator (Alice) side of the transaction and the receiver (Bob) side of the transaction.
+本项目开发了一个基于Solidity语言开发的抗MEV攻击的新型跨链原子双向交易合约（WJ-HTLC），合约通过时间锁机制以及多重惩罚机制，既能防范传统/新型MEV攻击，又提高了交易效率以及成功率。
