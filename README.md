@@ -9,6 +9,6 @@ The experimental code for "Transactions" developed a novel cross-chain atomic tw
 The author and affiliation of this project
 
 ```text
-项目名称（Project Name）：mc-lstm-time-series
-项目作者（Author）：Yixiang Lu, Yudan Cheng, Jianbin Mai, Hongliang Sun, Juli Yin, Guoxuan Zhong
+项目名称（Project Name）：WJ-HTLC
+项目作者（Author）：Wenjun Liu
 作者单位（Affiliation）：暨南大学网络空间安全学院（College of Cyber Security, Jinan University）
